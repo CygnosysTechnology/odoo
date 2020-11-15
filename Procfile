@@ -1,1 +1,1 @@
-web: ./odoo-bin
+web: ./odoo-bin --xmlrpc-port=$PORT
